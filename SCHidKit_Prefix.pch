@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'SCHidKit' target in the 'SCHidKit' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
